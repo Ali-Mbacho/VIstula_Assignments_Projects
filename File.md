@@ -1,2 +1,2 @@
-# Assignments                          ## Due Dates
+# Assignments                          # Due Dates
 
