@@ -4,7 +4,7 @@
 
 | Task                                        | Time         | Extra                    | Links  |
 | :--------------------------------              | :----------: | :-----------:            | ------:|
-| **Which country would you relocate to and why**|**_2 weeks_** |Groups and country of choice to be presented on next class 29/03/2021   | [Link](http://bit.ly/English_task)  |
+| **Which country would you relocate to and why**|**_2 weeks_** |Groups and country of choice to be presented on next class 29/03/2021   | [Click to download pdf](http://bit.ly/English_task)  |
 |                         |                      |presentation on 12/4/2021  //  5 minutes long presentation  //  5 slides max|        |
 |                                                |              |                                          |        |
 |    **_Factors to Consider_**                       |       |
