@@ -4,10 +4,10 @@
 
 | Task                                        | Time         | Extra                    | Links  |
 | :--------------------------------              | :----------: | :-----------:            | ------:|
-| **Which country would you relocate to and why**|**_2 weeks_** |Groups and country of choice to be presented on next class   |        |
+| **Which country would you relocate to and why**|**_2 weeks_** |Groups and country of choice to be presented on next class 29/03/2021   |        |
 |                         |                      |presentation on 12/4/2021  //  5 minutes long presentation  //  5 slides max|        |
 |                                                |              |                                          |        |
-|    _Factors to Consider_                       |       |
+|    **_Factors to Consider_**                       |       |
 |     _GDP_                                      |
 |     _Salary_                                   |
 |     _Job Opportunities_                        ||||
@@ -16,4 +16,5 @@
 |     _House Expenses_                           ||||
 |     _Culture_                                  ||||
 |                                                ||||
-|                                                ||||
+|    **Homework**                                ||||
+|    ![Homework](tmp_1616778780779.jpg "Homework View")|||
