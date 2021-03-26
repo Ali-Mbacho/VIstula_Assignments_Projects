@@ -5,8 +5,9 @@
 | Task                                        | Time         | Extra                    | Links  |
 | :--------------------------------              | :----------: | :-----------:            | ------:|
 | **Which country would you relocate to and why**|  **_2 weeks_** |*Groups and country of choice on  * |        |
-| _Factors to Consider_                          |                | 5 minutse long presentation/ 5 slides max|        |
+|                         |                | 5 minutse long presentation/ 5 slides max|        |
 |                                                |              |                                          |        |
+|    _Factors to Consider_                 |       |
 |     _GDP_                                      |
 |     _Salary_                                   |
 |     _Job Opportunities_                          ||||
