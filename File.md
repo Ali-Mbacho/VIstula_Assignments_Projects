@@ -16,7 +16,7 @@
 |     _House Expenses_                           ||||
 |     _Culture_                                  ||||
 |                                                ||||
-| > The factors can be found in the pdf          ||||
+| >> The factors can be found in the pdf          ||||
 |                                                ||||
 |    **Homework**                                ||||
 |    ![Homework](tmp_1616778780779.jpg "Homework View")|||
