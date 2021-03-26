@@ -35,5 +35,6 @@
 
 | Task                              | Extra                                                                     | Links    |
 | :-------------                    | :----------:                                                              | -----------: |
-| * **PEST Analysis**               |  5 people 20 to 18 slides // 2-3 people 15 slides // 1 person 10 slides    |    |
+| 1. **PEST Analysis**   
+  2. **Role of Inventory**           |  5 people 20 to 18 slides // 2-3 people 15 slides // 1 person 10 slides    |    |
 |                |                                                                           | | 
