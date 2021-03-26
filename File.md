@@ -2,8 +2,8 @@
 
 ## English
 
-| Task                                               | Column 2     | Time     |
-| :-------------                                     | :----------: | -----------: |
-|                                                    | More Stuff   | **2 WEEKS**    |
+| Task                                               | Time         | Extra                    | Links  |
+| :--------------------------------:                 | :----------: | -----------:             |        |
+|                                                    |  **2 weeks** | *Groups to be ready on * |        |
 | You Can Also                                       | Put Pipes In | Like this \| |
 
