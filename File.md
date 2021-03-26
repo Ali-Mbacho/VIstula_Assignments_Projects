@@ -5,7 +5,9 @@
 | Task                                        | Time         | Extra                    | Links  |
 | :--------------------------------              | :----------: | :-----------:            | ------:|
 | **Which country would you relocate to and why**|  **_2 weeks_** |Groups and country of choice to be presented on next class   |        |
-|                         |                      | presentation on 12/4. 5 minutes long presentation/ 5 slides max|        |
+|                         |                      | presentation on 12/4.
+ 5 minutes long presentation
+ 5 slides max|        |
 |                                                |              |                                          |        |
 |    _Factors to Consider_                       |       |
 |     _GDP_                                      |
