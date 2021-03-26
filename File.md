@@ -17,7 +17,7 @@
 |     _Culture_                                  ||||
 |                                                ||||
 |<span style="color:red"> The factors can be found in the pdf.</span>  ||||
-|                                                ||||
+|   <span style="color:blue">some *blue* text</span>                                             ||||
 |    **Homework**                                ||||
 |    ![Homework](tmp_1616778780779.jpg "Homework View")|||
 |    ![Homework](tmp_1616778850142.jpg "Homework View3")|||
