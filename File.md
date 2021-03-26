@@ -22,3 +22,10 @@
 |    ![Homework](tmp_1616778780779.jpg "Homework View")|||
 |    ![Homework](tmp_1616778850142.jpg "Homework View3")|||
 |    ![Homework](tmp_1616778823678.jpg "Homework View2")|||
+
+
+
+
+## Manegerial Economics
+
+![Homework](tmp_1616781342827.jpg "Homework View")
