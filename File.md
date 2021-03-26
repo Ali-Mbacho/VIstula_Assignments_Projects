@@ -37,10 +37,17 @@
 | :-------------                    | :----------:                                                              | -----------: |
 | 1. **PEST Analysis**           | **THIS APPLYS TO EVERY TASK** [5 people 20 to 18 slides // 2-3 people 15 slides // 1 person 10 slides]    |    |
 | 2. **Role of Inventory**               |                                                                           | | 
-| 3. **Ethics in Business** 
--motivation               |                                                                           | | 
-|                |                                                                           | | 
-|                |                                                                           | | 
-|                |                                                                           | | 
-|                |                                                                           | | 
-|                |                                                                           | | 
+| 3. **Ethics in Business** -motivation               |                                                                           | | 
+| 4. **Leadership an Leadership Styles**               |                                                                           | | 
+| 5. **Characteristics of a business Organization**              |                                                                           | | 
+| 6. **Influence of Pandemic on Business**               |                                                                           | | 
+| 7. **What Is The Role of Leader In Managing Critical Situation**               |                                                                           | | 
+| 8. **Who was Max Webber** - why is he important in managment                |                                                                           | | 
+| 9. **Adam Smith** |||
+| 10. **What is Need for Changes**|||
+| 11. **Henry Fayol**|||
+| 12. **Fredrick Taylor**|||
+| 13. **Adam Smith**|||
+| 14. **Benchmarking/Outsourcing** - What is it, reason, importance|||
+| 15. **Need for Changes**  - Reason, Your thoughts |||
+| 16. **Characteristic of Organizational Crisis**|||
