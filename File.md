@@ -31,12 +31,12 @@
 ![Homework](tmp_1616781342827.jpg "Homework View")
 
 
-## Managing OrganizationaL Crisis
+## Managing Organizational Crisis
 
 | Task                              | Extra                                                                     | Links    |
 | :-------------                    | :----------:                                                              | -----------: |
 | 1. **PEST Analysis**           | **THIS APPLYS TO EVERY TASK** [5 people 20 to 18 slides // 2-3 people 15 slides // 1 person 10 slides]    |    |
-| 2. **Role of Inventory**               |                                                                           | | 
+| 2. **Role of Inventory**               | **Presentation starts on  31/04/2021 and End 5/5/2021**      | | 
 | 3. **Ethics in Business** -motivation               |                                                                           | | 
 | 4. **Leadership an Leadership Styles**               |                                                                           | | 
 | 5. **Characteristics of a business Organization**              |                                                                           | | 
