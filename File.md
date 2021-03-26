@@ -29,3 +29,11 @@
 ## Manegerial Economics
 
 ![Homework](tmp_1616781342827.jpg "Homework View")
+
+
+## Managing OrganizationaL Crisis
+
+| Task                              | Extra                                                                     | Links    |
+| :-------------                    | :----------:                                                              | -----------: |
+| * **PEST Analysis**               |  5 people 20 to 18 slides // 2-3 people 15 pages // 1 person 10 paages    | And Again    |
+|                |                                                                           | Like this \| |
