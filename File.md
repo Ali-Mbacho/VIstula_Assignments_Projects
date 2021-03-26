@@ -36,4 +36,10 @@
 | Task                              | Extra                                                                     | Links    |
 | :-------------                    | :----------:                                                              | -----------: |
 | 1. **PEST Analysis**           | **THIS APPLYS TO EVERY TASK** [5 people 20 to 18 slides // 2-3 people 15 slides // 1 person 10 slides]    |    |
+| 2. **Role of Inventory**               |                                                                           | | 
+| 3. **Ethics in Business** -motivation               |                                                                           | | 
+|                |                                                                           | | 
+|                |                                                                           | | 
+|                |                                                                           | | 
+|                |                                                                           | | 
 |                |                                                                           | | 
