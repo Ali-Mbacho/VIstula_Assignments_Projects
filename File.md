@@ -28,7 +28,7 @@
 
 ## Manegerial Economics
 
-| **COURSE BOOKS**   | **Download Links** ||
+| **COURSE BOOKS**   |
 | 1. MN3028_vle1  |[Click_To_Download](http://bit.ly/bookone_)||
 | 2. microeconomics_varian  |[Click_To_Download](http://bit.ly/booktwo_)||
 
@@ -53,3 +53,12 @@
 | 14. **Benchmarking/Outsourcing** - What is it, reason, importance|||
 | 15. **Need for Changes**  - Reason, Your thoughts |||
 | 16. **Characteristic of Organizational Crisis**|||
+
+
+## HUMAN CAPITAL MANAGMENT (Workshop)
+
+| Task                              | Extra                                                                     | Links    |
+| :-------------                    | :----------:                                                              | -----------: |
+| **Homework** | |    |
+|  ![Homework](HCM_homework.png "Homework View")| |    |
+|  | |    |
