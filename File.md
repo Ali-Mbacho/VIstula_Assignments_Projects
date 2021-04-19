@@ -81,4 +81,19 @@
 ![ANSWERS](intercultural_communication3.PNG "OnlineTest")
 ![ANSWERS](intercultural_communication4.PNG "OnlineTest")
 
+## Library Training-ONLINE ENG - 2021L
+
+![ANSWERS](one.jpg "OnlineTest")
+![ANSWERS](two.jpg "OnlineTest")
+![ANSWERS](three.jpg "OnlineTest")
+![ANSWERS](four.jpg "OnlineTest")
+![ANSWERS](five.jpg "OnlineTest")
+![ANSWERS](six.jpg "OnlineTest")
+![ANSWERS](seven.jpg "OnlineTest")
+![ANSWERS](eight.jpg "OnlineTest")
+![ANSWERS](nine.jpg "OnlineTest")
+![ANSWERS](ten.jpg "OnlineTest")
+
+
+
 
