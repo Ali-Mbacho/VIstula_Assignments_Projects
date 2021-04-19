@@ -1,6 +1,6 @@
 # Assignments  
 
-## English grp a1102
+## English grp a1102      
 
 | Task                                        | Time         | Extra                    | Links  |
 | :--------------------------------              | :----------: | :-----------:            | ------:|
@@ -28,7 +28,9 @@
 
 ## Manegerial Economics
 
-![Homework](tmp_1616781342827.jpg "Homework View")
+| **COURSE BOOKS**   | **Download Links** ||
+| 1. MN3028_vle1  |[Click_To_Download](http://bit.ly/bookone_)||
+| 2. microeconomics_varian  |[Click_To_Download](http://bit.ly/booktwo_)||
 
 
 ## Managing Organizational Crisis
