@@ -68,6 +68,17 @@
 
 | Task                              | Extra                                                                     | Links    |
 | :-------------                    | :----------:                                                              | -----------: |
-| **CAT QUESTIONS** | **CAT TO BE DONE ON 23/04/2021**|    |
+| **CAT QUESTIONS** | **Cat to be done on 23/04/2021**|    |
 |  ![Homework](IEL_cat.png "Homework View")| |    |
 |  | |    |
+
+
+
+## Introduction Module-ONLINE (0000-IM-SE) - 2021L - 1 E
+
+![ANSWERS](intercultural_communication1.PNG "OnlineTest")
+![ANSWERS](intercultural_communication2.PNG "OnlineTest")
+![ANSWERS](intercultural_communication3.PNG "OnlineTest")
+![ANSWERS](intercultural_communication4.PNG "OnlineTest")
+
+
