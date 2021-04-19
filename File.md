@@ -5,7 +5,7 @@
 | Task                                        | Time         | Extra                    | Links  |
 | :--------------------------------              | :----------: | :-----------:            | ------:|
 | **Which country would you relocate to and why**| |   |  |
-|  ![Homework](Country_to_relocate.jpg "Homework View")                   |                      |  10 minutes long presentation  //  5 slides max|        |
+|  ![Task_Description](Country_to_relocate.png "Presentation")   |                      |  10 minutes long presentation  //  5 slides max|        |
 |                                                |              |                                          |        |
 |    **_Factors to Consider_**                       |       |
 |     _GDP_                                      |
