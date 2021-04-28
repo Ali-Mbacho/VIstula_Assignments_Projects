@@ -18,14 +18,10 @@
 |                                                ||||
 | >> The factors can be found in the pdf, kindly use the ones in pdf          |||[Click to download pdf](http://bit.ly/English_task) |
 |                                                ||||
-|    **Homework**                                ||||
-|    ![Homework](homeuno.png "Homework View")|||
-|    ![Homework](homedos.png "Homework View3")|||
-|    |||
 
 ## Ethics
 
-|1. Case Study |[Click_To_Download](http://bit.ly/Ethics_Case_Study)|||
+|1. Case Study |[Click_To_Download](http://bit.ly/Ethics_Case_Study)|
 
 ## Manegerial Economics
 
@@ -71,8 +67,8 @@
 
 | Task                              | Extra                                                                     | Links    |
 | :-------------                    | :----------:                                                              | -----------: |
-| **CAT QUESTIONS** | **Cat to be done on 23/04/2021**|    |
-|  ![Homework](IEL_cat.png "Homework View")| |    |
+| **ANNOUNCEMENTS** | **Final exam to be done on 28/05/2021**|    |
+|  | |    |
 |  | |    |
 
 
