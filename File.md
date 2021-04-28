@@ -23,8 +23,9 @@
 |    ![Homework](homedos.png "Homework View3")|||
 |    |||
 
+## Ethics
 
-
+|1. Case Study |[Click_To_Download](http://bit.ly/Ethics_Case_Study)|||
 
 ## Manegerial Economics
 
