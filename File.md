@@ -58,8 +58,8 @@
 
 | Task                              | Extra                                                                     | Links    |
 | :-------------                    | :----------:                                                              | -----------: |
-| **Homework** | |    |
-|  ![Homework](HCM_homework.png "Homework View")| |    |
+| **Presentation Topics** | |    |
+|  ![Presentation](HCM_TOPICS.png "Homework View")| |    |
 |  | |    |
 
 
