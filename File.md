@@ -59,7 +59,7 @@
 | Task                              | Extra                                                                     | Links    |
 | :-------------                    | :----------:                                                              | -----------: |
 | **Presentation Topics** | |    |
-|  ![Presentation](HCM_TOPICS.png "Homework View")| |    |
+|  ![Presentation](HCM_TOPICS.png "Homework View")| **Deadline to upload presentation 06/06/21**|    |
 |  | |    |
 
 
